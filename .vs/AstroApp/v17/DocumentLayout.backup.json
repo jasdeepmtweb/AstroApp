@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Jasdeep\\WebSites\\AstroApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|F:\\Jasdeep\\WebSites\\AstroApp\\astrologer\\astrologerchat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|solutionrelative:astrologer\\astrologerchat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|F:\\Jasdeep\\WebSites\\AstroApp\\astrologer\\astrologerchat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|solutionrelative:astrologer\\astrologerchat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|f:\\jasdeep\\websites\\astroapp\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|solutionrelative:chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|F:\\Jasdeep\\WebSites\\AstroApp\\chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|solutionrelative:chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|F:\\Jasdeep\\WebSites\\AstroApp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|F:\\Jasdeep\\WebSites\\AstroApp\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|F:\\Jasdeep\\WebSites\\AstroApp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|F:\\Jasdeep\\WebSites\\AstroApp\\otpconfirm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{415FBD30-1DAC-4430-B501-964F80FD69BA}|AstroApp.csproj|solutionrelative:otpconfirm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "style.css",
+              "DocumentMoniker": "F:\\Jasdeep\\WebSites\\AstroApp\\style.css",
+              "RelativeDocumentMoniker": "style.css",
+              "ToolTip": "F:\\Jasdeep\\WebSites\\AstroApp\\style.css",
+              "RelativeToolTip": "style.css",
+              "ViewState": "AgIAACgUAAAAAAAAAAAowEEUAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-20T07:42:31.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AstrologerChat.aspx.cs",
+              "DocumentMoniker": "F:\\Jasdeep\\WebSites\\AstroApp\\Astrologer\\AstrologerChat.aspx.cs",
+              "RelativeDocumentMoniker": "Astrologer\\AstrologerChat.aspx.cs",
+              "ToolTip": "F:\\Jasdeep\\WebSites\\AstroApp\\Astrologer\\AstrologerChat.aspx.cs",
+              "RelativeToolTip": "Astrologer\\AstrologerChat.aspx.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwI0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:59:21.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AstrologerChat.aspx",
+              "DocumentMoniker": "F:\\Jasdeep\\WebSites\\AstroApp\\Astrologer\\AstrologerChat.aspx",
+              "RelativeDocumentMoniker": "Astrologer\\AstrologerChat.aspx",
+              "ToolTip": "F:\\Jasdeep\\WebSites\\AstroApp\\Astrologer\\AstrologerChat.aspx",
+              "RelativeToolTip": "Astrologer\\AstrologerChat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-17T11:54:45.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chat.aspx.cs",
+              "DocumentMoniker": "F:\\Jasdeep\\WebSites\\AstroApp\\Chat.aspx.cs",
+              "RelativeDocumentMoniker": "Chat.aspx.cs",
+              "ToolTip": "F:\\Jasdeep\\WebSites\\AstroApp\\Chat.aspx.cs",
+              "RelativeToolTip": "Chat.aspx.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwJkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:13:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtpConfirm.aspx",
+              "DocumentMoniker": "F:\\Jasdeep\\WebSites\\AstroApp\\OtpConfirm.aspx",
+              "RelativeDocumentMoniker": "OtpConfirm.aspx",
+              "ToolTip": "F:\\Jasdeep\\WebSites\\AstroApp\\OtpConfirm.aspx",
+              "RelativeToolTip": "OtpConfirm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-17T05:45:33.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "F:\\Jasdeep\\WebSites\\AstroApp\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "F:\\Jasdeep\\WebSites\\AstroApp\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAowC8BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T05:21:01.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat.aspx",
+              "DocumentMoniker": "F:\\Jasdeep\\WebSites\\AstroApp\\Chat.aspx",
+              "RelativeDocumentMoniker": "Chat.aspx",
+              "ToolTip": "F:\\Jasdeep\\WebSites\\AstroApp\\Chat.aspx",
+              "RelativeToolTip": "Chat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-16T12:15:05.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "F:\\Jasdeep\\WebSites\\AstroApp\\Index.aspx",
+              "RelativeDocumentMoniker": "Index.aspx",
+              "ToolTip": "F:\\Jasdeep\\WebSites\\AstroApp\\Index.aspx",
+              "RelativeToolTip": "Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T10:20:14.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
