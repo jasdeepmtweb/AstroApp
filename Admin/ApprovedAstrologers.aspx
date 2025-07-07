@@ -25,7 +25,7 @@
                         <p class="card-text">Specialization: <%# Eval("specializations") %></p>
                         <p class="card-text">Languages Known: <%# Eval("languages_known") %></p>
                         <div class="text-center">
-                            <asp:Button ID="BtnDetail" runat="server" CommandArgument='<%# Eval("astrologer_id") %>' OnClick="BtnDetail_Click" CssClass="btn btn-outline-success btn-sm" Text="Detail" />
+                            <asp:Button ID="BtnDetail" Visible="false" runat="server" CommandArgument='<%# Eval("astrologer_id") %>' OnClick="BtnDetail_Click" CssClass="btn btn-outline-success btn-sm" Text="Detail" />
                         </div>
                     </div>
                 </div>

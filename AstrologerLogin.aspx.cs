@@ -78,7 +78,7 @@ namespace AstroApp
                     Session["astromob"] = txtMobileNo.Text.Trim();
                     Session["astrootp"] = otp;
 
-                    string message = $"Dear User, {otp} is your One Time Password(OTP) for Phone Verification.-Vowel";
+                    string message = $"Dear User, {otp} is your One Time Password(OTP) for Phone Verification.-Vowel Digital";
 
                     Send_Msg(txtMobileNo.Text.Trim(), message);
 
@@ -98,7 +98,7 @@ namespace AstroApp
         }
         public static void Send_Msg(String mobileNumber, String message)
         {
-            String strUrl = $"https://smsotp.in/index.php/smsapi/httpapi/?uname=solversolution&password=solversolution@45&sender=VOWELD&tempid=1607100000000250822&receiver={mobileNumber}&route=TA&msgtype=1&sms={message}";
+            String strUrl = $"https://smsotp.in/index.php/smsapi/httpapi/?uname=solversolution&password=solversolution@45&sender=VOWELD&tempid=1607100000000340901&receiver={mobileNumber}&route=TA&msgtype=1&sms={message}";
             WebRequest request = WebRequest.Create(strUrl);
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
             Stream s = response.GetResponseStream();

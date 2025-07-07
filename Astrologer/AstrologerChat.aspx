@@ -118,7 +118,7 @@
                         </button>
                         <input class="form-control" id="txtMessage" type="text" placeholder="Type here..." />
 
-                        <button class="btn btn-submit" id="btnSend" type="button">
+                        <button class="btn btn-submit ms-2" id="btnSend" type="button">
                             <i class="bi bi-cursor"></i>
                         </button>
                     </div>
